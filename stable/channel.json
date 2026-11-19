@@ -1,0 +1,131 @@
+{
+ "advisories": [],
+ "channel": "stable",
+ "commit": "f29b747e1f0facf310280695d72632ae203e527d",
+ "database": {
+  "sha256": "e5ef38cfbf1ce7e545eb088b86c5bdcc8e2b19f29794de19a5aeae5cd6758c3e",
+  "size": 4908
+ },
+ "expires": "2026-12-03T03:01:15Z",
+ "format": 1,
+ "packages": {
+  "clover-admin": {
+   "file": "clover-admin-0.4.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "f55e10eedd95ed0715a0da5cd7960567eefc56d799a1c8d5defc0a1e03e02692",
+   "size": 19546,
+   "version": "0.4.0-20261119024347"
+  },
+  "clover-ai": {
+   "file": "clover-ai-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "208d8fa8d6f5f69864e76a0ef889c43ba483f95b31284b97f8a847f0f071779b",
+   "size": 4182,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-base": {
+   "file": "clover-base-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "5d0e7a432df86ae5498200e41bc2cbad7b07d46159f2401c7238290beb294ae2",
+   "size": 7298,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-branding": {
+   "file": "clover-branding-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "db0c296c70f671205cba7ce98da8e6c6ef9ce50cd67050d7607b199d1abad5c4",
+   "size": 890357,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-center": {
+   "file": "clover-center-0.4.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "ea207f4bae6b942160a92013bcce49dec9d530d05ae098c792fb7cfa85249940",
+   "size": 90806,
+   "version": "0.4.0-20261119024347"
+  },
+  "clover-desktop": {
+   "file": "clover-desktop-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "ceac9da0b8e6fa234430bd03e722fa82f39c446a75b57b1446daeaaa303ed7e1",
+   "size": 67612,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-hyprbars": {
+   "file": "clover-hyprbars-0.57.2.r0.f2747de-20261119024347-x86_64.pkg.tar.zst",
+   "sha256": "e38ca3162ea54687269d064bbfa302dc26cb30ab9e5e8843aad0ba079314501e",
+   "size": 144537,
+   "version": "0.57.2.r0.f2747de-20261119024347"
+  },
+  "clover-keyring": {
+   "file": "clover-keyring-20261114-20261119024347-any.pkg.tar.zst",
+   "sha256": "10c83f5805da2d3d764195a382d617403ff796bc2ff5ea4fdb5aaa42db04f6f4",
+   "size": 5158,
+   "version": "20261114-20261119024347"
+  },
+  "clover-orchestrator": {
+   "file": "clover-orchestrator-0.6.0-20261119024347-x86_64.pkg.tar.zst",
+   "sha256": "faf822ecfd9c168bbdeadac23b6198dfee5fbe1c854c9c0fb5272045183032e8",
+   "size": 41054818,
+   "version": "0.6.0-20261119024347"
+  },
+  "clover-orchestrator-runtime": {
+   "file": "clover-orchestrator-runtime-0.6.0-20261119024347-x86_64.pkg.tar.zst",
+   "sha256": "2a50dff2db3c289bde8ea61787df5d4cf4c428a369f16ed42d055942a8501ac0",
+   "size": 94097580,
+   "version": "0.6.0-20261119024347"
+  },
+  "clover-security": {
+   "file": "clover-security-0.2.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "6cd5af78b11d784a45721bd030d57424160bed58aae9b82fb872256f42171273",
+   "size": 20081,
+   "version": "0.2.0-20261119024347"
+  },
+  "clover-theme-classic": {
+   "file": "clover-theme-classic-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "b4001146d55859c5628f23a06fc2bb5c98ab6b4f45a4f624d16229f601103c50",
+   "size": 858415,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-theme-mac": {
+   "file": "clover-theme-mac-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "41f1d5239f55189314d2e92291ed7c3518eda423151d85632bb8f78000cb0158",
+   "size": 11570884,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-theme-windows": {
+   "file": "clover-theme-windows-0.1.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "3bf733b6537c5b85c2c0eeaed22db999b9d3e0ed82ea22a24f392ae8bc1b321b",
+   "size": 12484269,
+   "version": "0.1.0-20261119024347"
+  },
+  "clover-tools": {
+   "file": "clover-tools-0.4.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "cb205c7b537ae8049752a4d5c4b6b42f13918557e4fee737ba2794b0267dc684",
+   "size": 573645,
+   "version": "0.4.0-20261119024347"
+  },
+  "clover-vmtools": {
+   "file": "clover-vmtools-0.2.0-20261119024347-any.pkg.tar.zst",
+   "sha256": "45317d0e0084302d9ee2b9fe641113358c7a559d9c7c6c218aeebb361ab6bb37",
+   "size": 76827,
+   "version": "0.2.0-20261119024347"
+  }
+ },
+ "promoted_from": {
+  "channel": "dev",
+  "serial": 20261119025830
+ },
+ "published": "2026-11-19T03:01:15Z",
+ "serial": 20261119030115,
+ "sources": {
+  "clover-admin": "c77a2b9c99feba692983c174ac2e0bed2e60e066ba62e385d6829c56a09fa7b9",
+  "clover-base": "1cd5e5581beed815def99b6c3c3779dc4bf415d852da9b8beda445e9e15320d0",
+  "clover-branding": "83b623be4abc47dee7d490024af35b9e9a6d507e1b31c055bf19a05f907f45b7",
+  "clover-center": "3b877a4abfe12bc0e0640dea2ba1038e8f2099de9a6031d01fd275bf8afaec77",
+  "clover-desktop": "40a2ca0dbc96844d2d8fb74486b0edf84b4ea4c187d05a35e37545353665153b",
+  "clover-hyprbars": "915a3e2897de9a4fbe1fa6c21e4c60983cf45d2080ed02d288e9883ebda19bdb",
+  "clover-keyring": "2b9fdac1edf566ffc4893985d9002e7243fe62dd9c6dae98cc6397421feab3e1",
+  "clover-orchestrator": "6dd7baeab11b420f7c31d0776c92cfa8c4c624a75d6b112936b50f6a2b0422a2",
+  "clover-security": "6f9a198cdb70d14248e280aa47d5abaed63c8a6be295525abbed0952218fff46",
+  "clover-theme-classic": "5943bd7a9cde7bdf8ec410826e08f6666b2f7016c6600f4b703ca5a05809fe67",
+  "clover-theme-mac": "a55a9190f389f7e2878c61d623bb81d3d472e19098da6acb014cb1f117e142e5",
+  "clover-theme-windows": "ee05aca298b3ac9cc6f97ec3e0234ba3cb237d749a0ad59a5658f1a6f9092207",
+  "clover-tools": "4657d5d7d3c9f7d1d88a41c4c49b748d53d9b5b2badccf62720b6a105d22248e",
+  "clover-vmtools": "6017937d9f32998e89143f9972517f5b25f9b5175f7f3128d98025d84273f0ac"
+ }
+}
