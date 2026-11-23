@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Clover OS package repository</title>
+<body style="font-family:sans-serif;max-width:40em;margin:3em auto;padding:0 1em">
+<h1>Clover OS package repository</h1>
+<p>Signed pacman repository for Clover OS. Channels: <a href="stable/channel.json">stable</a>,
+<a href="dev/channel.json">dev</a>. Public key: <a href="clover.gpg">clover.gpg</a><br>
+Fingerprint: <code>600D 4941 1071 1969 D4F6 00FF 80CE C551 4C9E B7FA</code></p>
+<pre>[clover]
+SigLevel = Required
+Server = https://brizzad.github.io/clover-repo/stable/$arch</pre>
+<p>Clover OS configures this itself; switch channels with <code>clover update channel stable|dev</code>.</p>
+</body>
